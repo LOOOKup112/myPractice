@@ -1,0 +1,27 @@
+cd 
+mkdir newGit 
+cd newGit
+
+newGit ls
+touch chapter1.txt
+
+to create emtpy reso
+git init
+
+to see all folder 
+ls - a
+
+see files location
+git status --- red color shown for staging area
+
+add file
+git add filename 
+
+to commit 
+git commit -m "message area what you do"
+
+to see what and who did
+git log
+
+to add all 
+git add .
